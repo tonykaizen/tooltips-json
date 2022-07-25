@@ -1,0 +1,240 @@
+{
+    "WHAT'S UP": {
+      "Definition": "used as a friendly greeting"
+    },
+    "DIFFICULT": {
+      "Definition": "not easy or simple; hard to do or to understand"
+    },
+    "EFFECTIVELY": {
+      "Definition": "in a way that is successful and achieves what you want"
+    },
+    "CONVINCED": {
+      "Definition": "to cause someone to believe something or to do something"
+    },
+    "PROGRAMMING LANGUAGE": {
+      "Definition": "any of various high-level languages used for computer programs"
+    },
+    "ANYWAY": {
+      "Definition": "in conversation, anyway is also used to change the subject, return to an earlier subject, or get to the most interesting point"
+    },
+    "FASCINATED": {
+      "Definition": "extremely interested"
+    },
+    "CODE": {
+      "Definition": "a language used to program (= give instructions to) computers"
+    },
+    "MAGIC": {
+      "Definition": "a special and exciting quality that makes something seem different from ordinary things"
+    },
+    "BUILD": {
+      "Definition": "to develop something; to make a structure or something else by putting materials together in a particular way"
+    },
+    "QUITE": {
+      "Definition": "used for emphasis"
+    },
+    "FUNDAMENTALS": {
+      "Definition": "the main or most important rules or parts"
+    },
+    "PROJECTS": {
+      "Definition": "a piece of planned work or an activity that is finished over a period of time and intended to achieve a particular purpose"
+    },
+    "UNBELIEVABLY": {
+      "Definition": "in a way that is very surprising or difficult to believe"
+    },
+    "FUNCTIONS": {
+      "Definition": "a process that a computer or a computer program uses to complete a task"
+    },
+    "PARAMETERS": {
+      "Definition": "a special kind of variable in computer programming language that is used to pass information between functions or procedures"
+    },
+    "CALLBACKS": {
+      "Definition": "a piece of code (= a computer instruction) that tells another piece of code to perform an action at a particular later time"
+    },
+    "PROMISES": {
+      "Definition": "an object that may produce a single value some time in the future: either a resolved value, or a reason that it is not resolved (e.g., a network error occurred)"
+    },
+    "LOOPS": {
+      "Definition": "a series of instructions that is repeated until a particular thing happens"
+    },
+    "ARRAYS": {
+      "Definition": "a group of related data values (called elements) that are grouped together"
+    },
+    "METHODS": {
+      "Definition": "a procedure associated with a message and an object"
+    },
+    "CHAINED": {
+      "Definition": "to fasten, bind, or connect with or as if with a chain"
+    },
+    "FUNCTIONAL": {
+      "Definition": "performing a particular operation"
+    },
+    "APPLICATION": {
+      "Definition": "a computer program that is designed for a particular purpose"
+    },
+    "TUTORIALS": {
+      "Definition": "a document or website on a computer that shows you how to use a product in a series of easy stages"
+    },
+    "DOCUMENTATION": {
+      "Definition": "the instructions for using a computer device or program"
+    },
+    "FOUND MYSELF": {
+      "Definition": "to realize that you are in a particular situation or place, or doing a particular thing, when you did not intend to"
+    },
+    "RABBIT HOLE": {
+      "Definition": "a situation in which you become so interested in a subject or an activity that you cannot stop trying to find out about it or doing it"
+    },
+    "OVERWHELMED": {
+      "Definition": "to be too much to deal with"
+    },
+    "UNFORTUNATE": {
+      "Definition": "unlucky or having bad effect"
+    },
+    "GENUINELY": {
+      "Definition": "really and sincerely"
+    },
+    "COOL": {
+      "Definition": "excellent; very good"
+    },
+    "GAINED": {
+      "Definition": "to get something that is useful, that gives you an advantage, or that is in some way positive, especially over a period of time"
+    },
+    "ENDED UP": {
+      "Definition": "to reach a particular place or achieve a situation after other activities"
+    },
+    "FANTASTIC": {
+      "Definition": "extremely good"
+    },
+    "GENTLEMAN": {
+      "Definition": "a polite way of talking to or referring to a man"
+    },
+    "SHOUT-OUT": {
+      "Definition": "an occasion when someone mentions a person or thing in order to thank them or praise them"
+    },
+    "Y'ALL": {
+      "Definition": "short for 'you all'; used to address a group of people that you are speaking to"
+    },
+    "FUCKING": {
+      "Definition": "used to emphasize a statement"
+    },
+    "IN YOUR DEBT": {
+      "Definition": "grateful for something someone did for you"
+    },
+    "PRODUCTIVE": {
+      "Definition": "having positive results"
+    },
+    "SUSTAINABLE": {
+      "Definition": "able to continue over a period of time"
+    },
+    "FAST-FORWARD": {
+      "Definition": "to proceed rapidly forward especially in time"
+    },
+    "HTML": {
+      "Definition": "abbreviation for 'hypertext markup language': a way of marking text so that it can be seen on the internet"
+    },
+    "CSS": {
+      "Definition": "abbreviation for 'cascading style sheet': a piece of computer software that allows you to describe and control how a web page or a series of web pages should appear to the user"
+    },
+    "REVISITING": {
+      "Definition": "to examine or consider something again, for example a subject or rule"
+    },
+    "FAMILIAR": {
+      "Definition": "easy to recognize because of being seen, met, heard, etc. before"
+    },
+    "TYPICALLY": {
+      "Definition": "used when you are giving an average or usual example of a particular thing"
+    },
+    "MASTER": {
+      "Definition": "to learn how to do something well"
+    },
+    "COMPLEX": {
+      "Definition": "involving a lot of different but related parts"
+    },
+    "STARTING OVER": {
+      "Definition": "to begin to do something again, sometimes in a different way"
+    },
+    "FRESH": {
+      "Definition": "new or different"
+    },
+    "BACKED": {
+      "Definition": "to support, as with authority, influence, help, or money"
+    },
+    "CHIPPING AWAY AT IT": {
+      "Definition": "to gradually reduce something so that it becomes smaller or weaker"
+    },
+    "AGGRESSIVELY": {
+      "Definition": "in a determined and forceful way in order to achieve success or win"
+    },
+    "PATIENTLY": {
+      "Definition": "in a patient manner : with calmness or without complaint or hurry in spite of delays, difficulties, tedium, etc."
+    },
+    "HARD": {
+      "Definition": "with a lot of physical or mental effort"
+    },
+    "SHUT EVERYTHING DOWN": {
+      "Definition": "if someone shuts something down, they stop it"
+    },
+    "APPROACH": {
+      "Definition": "a way of considering or doing something"
+    },
+    "MINDSET": {
+      "Definition": "a person's way of thinking and their opinions"
+    },
+    "IN TERMS OF": {
+      "Definition": "in relation to something"
+    },
+    "TRACK": {
+      "Definition": "to record the progress or development of something over a period"
+    },
+    "REALISTIC": {
+      "Definition": "able to see things as they really are and to deal with them in a practical way"
+    },
+    "DON'T GIVE A FUCK": {
+      "Definition": "to not care at all"
+    },
+    "GIFTED": {
+      "Definition": "smart, or having a special ability"
+    },
+    "POSSIBLY": {
+      "Definition": "used with 'can' or 'could' for emphasis"
+    },
+    "CONSTANTLY": {
+      "Definition": "all the time or often"
+    },
+    "PLAY AROUND WITH": {
+      "Definition": "to try out different methods or different things, before deciding which one to choose"
+    },
+    "TAKE IT TOO SERIOUSLY": {
+      "Definition": "to consider a person, subject, or situation to be important or dangerous and worth your attention or respect"
+    },
+    "EXPERIMENT": {
+      "Definition": "to try something in order to discover what it is like or find out more about it"
+    },
+    "FEEDBACK": {
+      "Definition": "reaction to a process or activity, or the information obtained from such a reaction"
+    },
+    "CHALLENGE": {
+      "Definition": "to test someone's ability or determination"
+    },
+    "EVENTUALLY": {
+      "Definition": "in the end, especially after a long time or a lot of effort, problems, etc."
+    },
+    "REJUVENATED": {
+      "Definition": "to make something more effective, modern, and successful by using new ideas and methods"
+    },
+    "DIGEST": {
+      "Definition": "to take information into your mind in a way that gives you the ability to use it"
+    },
+    "NATIVE": {
+      "Definition": "a local resident"
+    },
+    "UNLEARNABLE": {
+      "Definition": "that cannot be learned"
+    },
+    "FORCE": {
+      "Definition": "to make something happen or make someone do something difficult, unpleasant, or unusual, especially by threatening or not offering the possibility of choice"
+    },
+    "WALK AWAY": {
+      "Definition": "to stop being involved in a situation because it is difficult to deal with or does not give you any advantages"
+    }
+  } 
+  
